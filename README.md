@@ -2,15 +2,15 @@ NewsFeed
 
 Приложение Новостной Ленты Autodoc с возможностью сохранения публикаций в локальную базу данных.
 
-UIKit без Storyboard.
-MVVM + Combine
-UICollectionView + CompositionalLayout + DiffableDataSource
-Пагинация
-Async / Await
-Оптимизация для iPad
-Без сторонних библиотек
-Локальная база данных: CoreData (программная инициализация).
-Поддержка ОС: iOS 16.0+
+- UIKit без Storyboard.
+- MVVM + Combine.
+- UICollectionView + CompositionalLayout + DiffableDataSource.
+- Пагинация.
+- Async / Await.
+- Оптимизация для iPad.
+- Без сторонних библиотек.
+- Локальная база данных: CoreData (программная инициализация).
+- Поддержка ОС: iOS 16.0+.
 
 Ключевые фичи и архитектурные решения:
 
