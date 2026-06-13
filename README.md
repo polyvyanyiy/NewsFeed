@@ -26,4 +26,10 @@ NewsFeed
 8. Оптимизация под iPad
 - Приложение поддерживает все пространственные ориентации экрана на iPad (поворот не блокируется).
 
+iPad:
+
+<img width="320" height="312" alt="NewsFeedIPad" src="https://github.com/user-attachments/assets/6e6165b3-4016-4886-bc7a-7017dc1dcb4d" />
+
+IPhone:
+
 <img width="320" height="640" alt="NewsFeed" src="https://github.com/user-attachments/assets/2ecd581d-0862-46e9-8253-915c75495f58" />
